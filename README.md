@@ -5,3 +5,7 @@
 -   Parent : email = parent@gmail.com, password = parent123 and Role: Parent
 -   Student : email = student@gmail.com, password = student123 and Role: Student
 # laravel-college-management-system
+
+
+![Profile view](https://github.com/atifali-pm/laravel-college-management-system/blob/main/images/1.png?raw=true)
+![Management view](https://github.com/atifali-pm/laravel-college-management-system/blob/main/images/2.png?raw=true)
