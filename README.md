@@ -11,3 +11,6 @@ Profile view
 
 Management View
 ![Management view](https://github.com/atifali-pm/laravel-college-management-system/blob/main/public/images/2.png?raw=true)
+
+Login View
+![Login view](https://github.com/atifali-pm/laravel-college-management-system/blob/main/public/images/3.png?raw=true)
